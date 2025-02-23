@@ -1,6 +1,6 @@
 module github.com/putraawali/go-di
 
-go 1.23.2
+go 1.18
 
 require github.com/stretchr/testify v1.10.0
 
